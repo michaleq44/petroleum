@@ -1,0 +1,9 @@
+#include <res.h>
+
+ICON1 ICON "../data/favicon.ico"
+
+IDR_MENU1 MENU {
+    POPUP "File" {
+        MENUITEM "Quit", IDR_QUIT
+    }
+}
